@@ -1,7 +1,4 @@
 # Idea
-Creare un luogo di discussione per gli utenti di Poisson
+Creare un luogo di discussione per gli utenti di Poisson.
+Il progetto sarà originale, e deve simulare il formato di StackExchange: si desidera una piattaforma di domanda-risposta improntata sulla qualità dei contenuti e che si presta spontaneamente a "wikizzare".
 
-# Dubbi
-- Piattaforma pronta o stesura da capo?
-- Formato: Discourse, o qualcosa di più simile a StackExchange?
-- Estendere la portata della piattaforma ad altre facoltà?
