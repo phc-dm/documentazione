@@ -10,7 +10,7 @@ Per ora questo è l'unico progetto nuovo, l'idea è rinnovare la pagina di Poiss
 
 ## Macchine
 
-- poisson
+- [poisson](./macchine/poisson)
 
     Nuovo server di Poisson, gestisce gli account degli studenti e le rispettive pagine.
 
