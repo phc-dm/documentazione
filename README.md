@@ -8,12 +8,4 @@ Ogni progetto corrisponde ad una cartella
 
 Per ora questo è l'unico progetto nuovo, l'idea è rinnovare la pagina di Poisson con qualcosa di più moderno, aggiungere un Forum e autenticazione con LDAP.
 
-## Macchine
-
-- [poisson](./macchine/poisson)
-
-    Nuovo server di Poisson, gestisce gli account degli studenti e le rispettive pagine.
-
-- [noether](./macchine/noether)
-
-    Macchina ricondizionata per gestire backup del nuovo Poisson.
+#### [Lista delle Macchine](./macchine)
