@@ -9,6 +9,8 @@ Macchine virtuali su Kolmogorov.
 
 - [ssh2](./ssh2) Macchina per fare prove prima di sostituirla con la macchina `ssh` principale.
 
-## Xen Cheatsheet
+## Comandi degni di nota
 
 - `xl list` Per elencare le macchine attive al momento.
+
+- `cat /etc/firewall` Configurazione delle _iptables_.
