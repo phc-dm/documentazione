@@ -23,7 +23,7 @@ Esempi e documentazione su LDAP.
   objectClass: top
   uidNumber: <uid>
   givenName: <nome>
-  description: <descrizione: "studente|dottorando|esterno|...">
+  description: <descrizione>
   gecos: <nome_completo>
   uid: <username>
   mail: <email>
@@ -41,5 +41,6 @@ Esempi e documentazione su LDAP.
   | `<uid>` | ID unico dell'utente |
   | `<email>` | Email dell'utente |
   | `<nome_completo>` | Nome completo dell'utente |
+  | `<descrizione>` | Può essere uno tra `studente`, `dottorando`, `esterno`... |
   
   
