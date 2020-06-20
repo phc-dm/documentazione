@@ -9,6 +9,8 @@ Macchine virtuali su Kolmogorov.
 
 - [ssh2](./ssh2) Macchina per fare prove prima di sostituirla con la macchina `ssh` principale.
 
+- [service](./service) Macchina che gestisce gli account con LDAP.
+
 ## Comandi degni di nota
 
 - `xl list` Per elencare le macchine attive al momento.
