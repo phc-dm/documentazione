@@ -13,6 +13,6 @@ Macchine virtuali su Kolmogorov.
 
 ## Comandi degni di nota
 
-- `xl list` Per elencare le macchine attive al momento.
+- `sudo xl list` Per elencare le macchine attive al momento.
 
 - `cat /etc/firewall` Configurazione delle _iptables_.
