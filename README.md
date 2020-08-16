@@ -1,11 +1,18 @@
 # Documentazione
 
-Repository principale per tutta la documentazione di ogni cosa presente al PHC, ogni progetto corrisponde ad una cartella
+Repository principale per tutta la documentazione di ogni cosa presente al PHC,
+ogni progetto corrisponde ad una cartella
 
-## [Lista delle Macchine](./macchine)
+## Macchine
 
-Lista e documentazione delle macchine "concrete" presenti al PHC.
+Lista e documentazione delle macchine in uso al PHC.
 
-## [Nuovo Sito Poisson](./nuovo-sito-poisson)
+## Progetti
 
-Per ora questo è l'unico progetto nuovo, l'idea è rinnovare la pagina di Poisson con qualcosa di più moderno, aggiungere un Forum ed un servizio di autenticazione web con LDAP.
+Cartella contenente la visione del PHC per quanto riguarda i suoi prossimi
+passi.
+
+## Contribuire
+
+Se si vuole contribuire, fare riferimento a quanto scritto in
+[./CONTRIBUTING.md].
