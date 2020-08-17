@@ -1,7 +1,8 @@
 # Idea
 
-Implementare un servizio di autenticazione comune per tutti i servizi basato sulle credenziali Poisson già disponibili, dunque LDAP.
-Unirlo con il protocollo Matrix.
+Implementare un servizio di autenticazione comune per tutti i servizi basato
+sulle credenziali Poisson già disponibili, dunque LDAP. Unirlo con il
+protocollo Matrix.
 
 # Risorse
 
