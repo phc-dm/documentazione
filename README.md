@@ -14,5 +14,5 @@ passi.
 
 ## Contribuire
 
-Se si vuole contribuire, fare riferimento a quanto scritto in
-[./CONTRIBUTING.md].
+Se si vuole contribuire, fare riferimento a quanto scritto nel [relativo
+file](./CONTRIBUTING.md).

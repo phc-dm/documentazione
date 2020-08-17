@@ -10,10 +10,12 @@ Per l'impaginazione del markdown, il nostro *repository* segue la specifica di
 Non dovrebbe causarvi problemi con markdown comune (ad esempio
 [CommonMark](https://commonmark.org/)). Per verificare il corretto
 funzionamento, installate il pacchetto `vmdfmt` di attraverso i comandi di `go`.
-Se avete `go` installato sul vostro sistema e configurato correttamente, per installare il pacchetto eseguite:
-```sh
-go get https://github.com/bobertlo/vmd/tree/master/cmd/vmdfmt
-```
+Se avete `go` installato sul vostro sistema e configurato correttamente, per
+installare il pacchetto eseguite:
+
+`````
+go get https://github.com/bobertlo/vmd/cmd/vmdfmt
+`````
 
 Dopo aver installato il pacchetto, potete impaginare un file eseguendo:
 
@@ -46,4 +48,8 @@ vostro *repository*, il comando dovrà forzare la storia con `git push --force`.
 Per *commit* multipli, dovete usare `git rebase`.
 
 ## Riferimento
-Questa guida è basata su quella di [Void Linux Handbook](https://github.com/void-linux/void-docs/blob/master/CONTRIBUTING.md), che vi invogliamo a leggere qualora abbiate bisogno di esempi sullo stile dei *commit* e di presentazione.
+
+Questa guida è basata su quella di [Void Linux
+Handbook](https://github.com/void-linux/void-docs/blob/master/CONTRIBUTING.md),
+che vi invogliamo a leggere qualora abbiate bisogno di esempi sullo stile dei
+*commit* e di presentazione.
