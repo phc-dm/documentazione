@@ -6,11 +6,11 @@ adempire a determinati standard.
 ## Impaginazione
 
 Per l'impaginazione del markdown, il nostro *repository* segue la specifica di
-[Versioned Markdown](https://github.com/bobertlo/vmdrima di fare un *commit*);
+[Versioned Markdown](https://github.com/bobertlo/vmd) prima di fare un *commit*;
 è equivalente al popolare [Commonmark](https://commonmark.org/). Per verificare
-che il vostro documento sia corretto, installate il pacchetto `vmdfmt` di
-attraverso i comandi di `go`. Se avete `go` installato sul vostro sistema e
-configurato correttamente, per installare il pacchetto eseguite:
+che il vostro documento sia corretto, installate il pacchetto `vmdfmt`. Se avete
+`go` installato sul vostro sistema e configurato correttamente, per installare
+il pacchetto eseguite:
 
 `````
 go get https://github.com/bobertlo/vmd/cmd/vmdfmt
