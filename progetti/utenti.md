@@ -1,6 +1,8 @@
+# Nuova pagina lista utenti
+
 ## Idea
 
-Lista delle pagine personali degli utenti
+Nuova lista delle pagine personali degli utenti
 
 ## Implementazione
 
@@ -8,3 +10,7 @@ Lista delle pagine personali degli utenti
 - Introdurre un motore di ricerca (preferibilmente fuzzy)
 - Di fianco ad ogni nome utente aggiungerei dei bottoni che rimandano ai loro
    indirizzo email, nome utente Matrix, profilo Gitea.
+
+## Prototipo
+
+Il primo prototipo è in fase di sviluppo in https://github.com/phc-dm/server-poisson.
