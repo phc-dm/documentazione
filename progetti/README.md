@@ -13,8 +13,8 @@ documentiamone l'utilizzo.
 
 ## Servizi in fase di sviluppo
 
-- [auth-poisson](progetti/auth-poisson/README.md)
-- [server-poisson](progetti/server-poisson/README.md)
+- [auth-poisson](auth-poisson/README.md)
+- [server-poisson](server-poisson/README.md)
 
 ## Suddivisione del sito
 
@@ -32,4 +32,4 @@ documentiamone l'utilizzo.
 
 ## Sessioni di Sviluppo
 
-- [Sessione del 27 Settembre 2020](progetti/sessioni-sviluppo/2020-09-27.md)
+- [Sessione del 27 Settembre 2020](sessioni-sviluppo/2020-09-27.md)
