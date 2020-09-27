@@ -29,3 +29,7 @@ documentiamone l'utilizzo.
 - [Risorse](risorse.md)
 - [Git](git.md)
 - [Forum](forum.md)
+
+## Sessioni di Sviluppo
+
+- [Sessione del 27 Settembre 2020](progetti/sessioni-sviluppo/2020-09-27.md)
