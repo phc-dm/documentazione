@@ -1,15 +1,14 @@
 # Piano
 
-Introdurre il prima possibile Element di modo da coinvolgere il più possibile
-gli studenti a distanza per il primo semestre dell'a.a. 2020/2021, fornire una
-guida al suo utilizzo e aggiornare il sito con Hugo.
+- Configurare due macchine virtuali, una per `Gitea` e una per homeserver Matrix
+   ed `Element`.
+- Mettere su Gitea, affiancandolo ad LDAP.
+- Mettere su Synapse, affiancarlo a LDAP, e poi anche Element.
+- Ammodernare il sito aggiungendo nuove sezioni (come indicato nella sezione
+   "suddivisione del sito"), accostandolo ad Hugo per rendere più scorrevole la
+   stesura di articoli e cose del genere.
 
-## Introdurre Hugo
-
-Adoperiamo Hugo come generatore di pagine statiche, uno strumento robusto che ci
-permette di scrivere pagine in .md e ci offre tutti gli strumenti annessi alla
-piattaforma. Permettiamo a tutti gli utenti di usufruire di Hugo e
-documentiamone l'utilizzo.
+# Indice
 
 ## Servizi in fase di sviluppo
 
@@ -25,11 +24,7 @@ documentiamone l'utilizzo.
 
 ## Servizi aggiuntivi
 
-- [Element](element.md)
+- [Matrix e Element](matrix.md)
 - [Risorse](risorse.md)
 - [Git](git.md)
 - [Forum](forum.md)
-
-## Sessioni di Sviluppo
-
-- [Sessione del 27 Settembre 2020](sessioni-sviluppo/2020-09-27.md)

@@ -4,14 +4,13 @@ Implementare un server matrix via
 abilitare [Jitsi](https://jitsi.org/) per le videochiamate.
 
 ## Riferimenti
-
-[Synapse
+- [Synapse
 installation](https://github.com/matrix-org/synapse/blob/master/INSTALL.md)
-[Getting Started -
+- [Getting Started -
 Element](https://github.com/vector-im/element-web#getting-started)
-[Configuration -
+- [Configuration -
 Element](https://github.com/vector-im/element-web/blob/develop/docs/config.md)
-[Jitsi configuration -
+- [Jitsi configuration -
 Element](https://github.com/vector-im/element-web/blob/develop/docs/jitsi.md)
-[Self-hosting
+- [Self-hosting
 Jitsi](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-start)
