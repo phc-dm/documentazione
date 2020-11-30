@@ -9,7 +9,7 @@ Kolmogorov essenzialmente svolge tre funzioni per tutto il sistema.
 
 3. contiene i  file per i certificati di [ldap](#3-ldap) (servizi interni)
 
-## 1. Macchine Virtuali
+## Macchine Virtuali
 
 I file di configurazione si trovano principalmente in `/etc/xen` e mentre altri file di configurazione delle macchine si trovano in `/etc/xen-tools`
 
@@ -22,6 +22,9 @@ Descrizione delle macchine virtuali attive su Kolmogorov.
 - [ssh2](./ssh2) Macchina per fare prove prima di sostituirla con la macchina `ssh` principale.
 
 - [service](./service) Macchina che gestisce gli account con LDAP.
+
+- [ssh](./ssh) Macchina con le home degli utenti e con le cartelle public_html per le pagine web degli  utenti.
+
 
 ### Comandi
 
@@ -62,7 +65,7 @@ Descrizione delle macchine virtuali attive su Kolmogorov.
     
     Il comando `xl destroy ...` fa fondamentalmente quel che fa `xl shutdown`, ma in maniera più brutale e rapida, va usato con cautela perchè potrebbe interrompere processi in corso nella macchina. 
 
-## 2. Firewall
+## Firewall
 
 Essenzilamente tutto il firewall è gestito da un modulo del kernel e questo viene configurato/controllato tramite i comandi `iptables` e `ip6tables`.
 
@@ -93,7 +96,7 @@ La prima parte (`-A INPUT -p tcp.... -d <ipv4>`) è la regola per ogni pacchetto
 - `iptables` comando del firewall per controllo a livello IPv4
 - `ip6tables` comando del firewall per controllo a livello IPv6
 
-## 3. LDAP
+## LDAP
 
 TODO
 
