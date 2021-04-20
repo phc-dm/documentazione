@@ -2,7 +2,7 @@
 
 Esempi e documentazione su LDAP.
 
-- `$ ldapsearch -x -LLL "cn=<username>"`
+- `$ ldapsearch -x -LLL "cn=<username>"` (eventualmente anche con `uid` al posto di `cn`)
   
   La prima sezione corrisponde al _gruppo_ dell'utente, mentre la seconda è il vero e proprio account dell'utente. 
   
