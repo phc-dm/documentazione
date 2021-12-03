@@ -1,4 +1,4 @@
-# [WIP] Telecomando per il controllo remoto
+# [WIP] Bottoni Telecomando
 > NOTA: `+` indica la concatenazione di più tasti (non c'è bisogno di tenerli premuti contemporaneamente)
 - M[0-9]: Mostra il messaggio voluto
 - EDIT: Modifica il messaggio attuale
