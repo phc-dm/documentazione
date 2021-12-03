@@ -9,3 +9,6 @@
 
     Macchina ricondizionata per gestire backup del nuovo Poisson e 
     per provare macchine da poi passare su Kolmogorov.
+- [EMSwRC](./EMSwRC)
+
+    Banner sopra alla porta per mostrare messaggi simpatici
