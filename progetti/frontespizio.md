@@ -12,4 +12,4 @@ un'altra che riporta le ultime tre notizie dalla relativa sezione
 
 ## Prototipo
 
-Il primo prototipo è in fase di sviluppo in https://github.com/phc-dm/server-poisson
+Il primo prototipo è in fase di sviluppo in https://github.com/phc-dm/phc-server

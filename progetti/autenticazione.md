@@ -14,5 +14,5 @@ protocollo Matrix.
 ## Prototipo
 
 Il primo prototipo è in fase di sviluppo in
-https://github.com/phc-dm/auth-poisson mentre la schermata di login e la pagina
-utente in https://github.com/phc-dm/server-poisson.
+https://github.com/phc-dm/phc-auth mentre la schermata di login e la pagina
+utente in https://github.com/phc-dm/phc-server
